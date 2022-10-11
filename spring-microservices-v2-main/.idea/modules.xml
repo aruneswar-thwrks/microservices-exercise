@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/04.docker/api-gateway/api-gateway.iml" filepath="$PROJECT_DIR$/04.docker/api-gateway/api-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03.microservices/api-gateway/api-gateway (1).iml" filepath="$PROJECT_DIR$/03.microservices/api-gateway/api-gateway (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/04.docker/currency-conversion-service/currency-conversion-service.iml" filepath="$PROJECT_DIR$/04.docker/currency-conversion-service/currency-conversion-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05.kubernetes/currency-conversion-service/currency-conversion-service (1).iml" filepath="$PROJECT_DIR$/05.kubernetes/currency-conversion-service/currency-conversion-service (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/03.microservices/currency-conversion-service/currency-conversion-service (2).iml" filepath="$PROJECT_DIR$/03.microservices/currency-conversion-service/currency-conversion-service (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/98.microservices-starting-point-for-v1-learners/currency-conversion-service/currency-conversion-service (3).iml" filepath="$PROJECT_DIR$/98.microservices-starting-point-for-v1-learners/currency-conversion-service/currency-conversion-service (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/04.docker/currency-exchange-service/currency-exchange-service.iml" filepath="$PROJECT_DIR$/04.docker/currency-exchange-service/currency-exchange-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05.kubernetes/currency-exchange-service/currency-exchange-service (1).iml" filepath="$PROJECT_DIR$/05.kubernetes/currency-exchange-service/currency-exchange-service (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/03.microservices/currency-exchange-service/currency-exchange-service (2).iml" filepath="$PROJECT_DIR$/03.microservices/currency-exchange-service/currency-exchange-service (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/98.microservices-starting-point-for-v1-learners/currency-exchange-service/currency-exchange-service (3).iml" filepath="$PROJECT_DIR$/98.microservices-starting-point-for-v1-learners/currency-exchange-service/currency-exchange-service (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/03.microservices/limits-service/limits-service.iml" filepath="$PROJECT_DIR$/03.microservices/limits-service/limits-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04.docker/naming-server/naming-server.iml" filepath="$PROJECT_DIR$/04.docker/naming-server/naming-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03.microservices/naming-server/naming-server (1).iml" filepath="$PROJECT_DIR$/03.microservices/naming-server/naming-server (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/98.microservices-starting-point-for-v1-learners/naming-server/naming-server (2).iml" filepath="$PROJECT_DIR$/98.microservices-starting-point-for-v1-learners/naming-server/naming-server (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/02.restful-web-services/restful-web-services.iml" filepath="$PROJECT_DIR$/02.restful-web-services/restful-web-services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03.microservices/spring-cloud-config-server/spring-cloud-config-server.iml" filepath="$PROJECT_DIR$/03.microservices/spring-cloud-config-server/spring-cloud-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring-microservices-v2-main.iml" filepath="$PROJECT_DIR$/.idea/spring-microservices-v2-main.iml" />
+    </modules>
+  </component>
+</project>
